@@ -1,0 +1,24 @@
+{
+  "name": "topic-bot",
+  "version": "1.0.0",
+  "description": "Node app for telegram channel topic bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vesakilp/topic-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "topic",
+    "bot"
+  ],
+  "author": "Vesa Kilpiäinen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vesakilp/topic-bot/issues"
+  },
+  "homepage": "https://github.com/vesakilp/topic-bot#readme"
+}
